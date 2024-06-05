@@ -1,0 +1,15 @@
+Payne Clark - Code interview
+
+How to run:
+
+1. Open CMD Prompt 
+
+2. Go to Py files directories
+
+3. Run server.py with "python server.p"
+
+4. Run client1.py with "python client1.py"
+
+5. Run multiple client1's in different CMD prompts to test multi user funcitonality
+
+6. client2.py would be used for a test case script that uses command line the code is identical otherwise
